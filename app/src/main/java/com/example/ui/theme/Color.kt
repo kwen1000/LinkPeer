@@ -1,0 +1,71 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Expressive Light Palette (Precision Telemetry Cobalt & Emerald)
+val PrimaryLight = Color(0xFF1B56E8)
+val OnPrimaryLight = Color(0xFFFFFFFF)
+val PrimaryContainerLight = Color(0xFFDCE4FF)
+val OnPrimaryContainerLight = Color(0xFF001849)
+
+val SecondaryLight = Color(0xFF4F5D78)
+val OnSecondaryLight = Color(0xFFFFFFFF)
+val SecondaryContainerLight = Color(0xFFD5E1FA)
+val OnSecondaryContainerLight = Color(0xFF0D1B32)
+
+val TertiaryLight = Color(0xFF00796B)
+val OnTertiaryLight = Color(0xFFFFFFFF)
+val TertiaryContainerLight = Color(0xFFA7F3E6)
+val OnTertiaryContainerLight = Color(0xFF00201C)
+
+val ErrorLight = Color(0xFFBA1A1A)
+val OnErrorLight = Color(0xFFFFFFFF)
+val ErrorContainerLight = Color(0xFFFFDAD6)
+val OnErrorContainerLight = Color(0xFF410002)
+
+val BackgroundLight = Color(0xFFF6F8FC)
+val OnBackgroundLight = Color(0xFF161B26)
+val SurfaceLight = Color(0xFFF6F8FC)
+val OnSurfaceLight = Color(0xFF161B26)
+val SurfaceVariantLight = Color(0xFFE3E8F4)
+val OnSurfaceVariantLight = Color(0xFF434A59)
+val SurfaceContainerLowestLight = Color(0xFFFFFFFF)
+val SurfaceContainerLowLight = Color(0xFFF0F3FA)
+val SurfaceContainerLight = Color(0xFFEBF0F8)
+val SurfaceContainerHighLight = Color(0xFFE2E8F2)
+val OutlineLight = Color(0xFF737B8B)
+val OutlineVariantLight = Color(0xFFC4CAD8)
+
+// Expressive Dark Palette (Low-Light Cockpit Slate & Luminous Cyan/Mint)
+val PrimaryDark = Color(0xFF9BB8FF)
+val OnPrimaryDark = Color(0xFF002B75)
+val PrimaryContainerDark = Color(0xFF083FA8)
+val OnPrimaryContainerDark = Color(0xFFDCE4FF)
+
+val SecondaryDark = Color(0xFFB8C6E3)
+val OnSecondaryDark = Color(0xFF223048)
+val SecondaryContainerDark = Color(0xFF384660)
+val OnSecondaryContainerDark = Color(0xFFD5E1FA)
+
+val TertiaryDark = Color(0xFF6EE7D8)
+val OnTertiaryDark = Color(0xFF003730)
+val TertiaryContainerDark = Color(0xFF005046)
+val OnTertiaryContainerDark = Color(0xFFA7F3E6)
+
+val ErrorDark = Color(0xFFFFB4AB)
+val OnErrorDark = Color(0xFF690005)
+val ErrorContainerDark = Color(0xFF93000A)
+val OnErrorContainerDark = Color(0xFFFFDAD6)
+
+val BackgroundDark = Color(0xFF0E141E)
+val OnBackgroundDark = Color(0xFFE2E7F2)
+val SurfaceDark = Color(0xFF0E141E)
+val OnSurfaceDark = Color(0xFFE2E7F2)
+val SurfaceVariantDark = Color(0xFF232C3C)
+val OnSurfaceVariantDark = Color(0xFFC1C8D6)
+val SurfaceContainerLowestDark = Color(0xFF090E16)
+val SurfaceContainerLowDark = Color(0xFF141C2A)
+val SurfaceContainerDark = Color(0xFF182232)
+val SurfaceContainerHighDark = Color(0xFF212D40)
+val OutlineDark = Color(0xFF8B93A3)
+val OutlineVariantDark = Color(0xFF404959)

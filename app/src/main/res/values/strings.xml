@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LinkGPS</string>
+    <string name="notification_channel_name">GPS Relay Session</string>
+    <string name="notification_channel_desc">Shows active GPS broadcast or mock location injection status.</string>
+    <string name="notification_title_transmitter">Broadcasting Live GPS</string>
+    <string name="notification_title_receiver">Mock GPS Active</string>
+    <string name="notification_action_stop">Stop</string>
+    <string name="role_transmitter">Transmitter</string>
+    <string name="role_receiver">Receiver</string>
+    <string name="role_transmitter_subtitle">Share this device\'s GPS offline</string>
+    <string name="role_receiver_subtitle">Apply peer GPS as mock location</string>
+    <string name="action_start_broadcast">Start Broadcasting</string>
+    <string name="action_stop_session">Stop Session</string>
+    <string name="action_scan_qr">Scan QR Code</string>
+    <string name="action_connect_code">Connect with Code</string>
+    <string name="action_open_dev_settings">Open Developer Options</string>
+    <string name="action_grant_permissions">Grant Required Permissions</string>
+    <string name="mock_auth_ready">Mock Location Ready</string>
+    <string name="mock_auth_required">Mock Location Setup Required</string>
+    <string name="mock_auth_instructions">Enable Developer Options, tap Select mock location app, and choose LinkGPS.</string>
+    <string name="pairing_code_label">6-Character Pairing Code</string>
+    <string name="pairing_qr_desc">QR code for LinkGPS device pairing</string>
+    <string name="telemetry_waiting">Waiting for GPS fix…</string>
+    <string name="telemetry_idle_transmitter">Start broadcasting to generate a pairing code and stream live GPS telemetry.</string>
+    <string name="telemetry_idle_receiver">Scan a transmitter QR code or enter its 6-character pairing code to start mock GPS.</string>
+</resources>
